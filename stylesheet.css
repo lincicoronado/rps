@@ -35,4 +35,12 @@ h3 {
 
 p {
     color: whitesmoke;
+    width: 600px;
+    padding: 10px 0;
+    align-content: center;
+}
+
+ul {
+    list-style-type: none;
+    color: whitesmoke;
 }
