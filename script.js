@@ -1,4 +1,4 @@
-const choices = ['rock', 'paper', 'scisors', 'lizard', 'spock'];
+const choices = ['rock', 'paper', 'scissors', 'lizard', 'spock'];
 const winners = [];
 
 function game() {
